@@ -25,3 +25,11 @@ Explore os seguintes comandos e conceitos SQL, essenciais para a análise de dad
 ## Visualização dos Comandos
 
 Você pode replicar e executar essas consultas no **MySQL Workbench** ou em qualquer ambiente de MySQL.
+
+<img width="1280" height="985" alt="image" src="https://github.com/user-attachments/assets/424a0707-9b52-44d7-9bca-e5c1a4d48718" />
+*Filtramos as hospedagens mais bem avaliadas, ou seja, que tiveram como nota 4 ou 5.
+
+<img width="1280" height="984" alt="image" src="https://github.com/user-attachments/assets/55a013fd-3219-434b-9d1b-1b40950f6b78" />
+*Filtramos todas as hospedagens disponíveis que fossem do tipo hotel e estivessem ativas na plataforma.
+
+
