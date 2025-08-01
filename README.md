@@ -45,3 +45,7 @@ Número de hospedagens inativas por proprietário.
 Identificando os períodos de maior e menor demanda de aluguel na plataforma.
 <img width="1278" height="984" alt="image" src="https://github.com/user-attachments/assets/cc97caad-4c9f-49dd-bc8c-939992e8349a" />
 
+## Tecnologias
+
+- MySQL
+
